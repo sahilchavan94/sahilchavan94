@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-gpm&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-gpm" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React.js, Node.js, Firebase, Java, Python**
 
