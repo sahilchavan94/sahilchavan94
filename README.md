@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React.js, Node.js, Firebase, Java, Python**
+- 💬 Ask me about **React.js, Node.js, Firebase, Java, MongoDB, Express.js**
 
 - 📫 How to reach me **sahilchavangithub@gmail.com**
 
