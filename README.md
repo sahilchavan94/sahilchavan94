@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sahil Chavan</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h3 align="center">Full-stack developer, currently diving into Flutter 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-gpm&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-gpm" /> </p>
 
