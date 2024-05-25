@@ -11,7 +11,7 @@
 
 - ➡️ View some of my key projects at **https://sahil32.vercel.app**
 
-- ⚡ Fun fact Mash can't use magic 🪄 
+- ⚡ Fun fact **Mash can't use magic 🪄** 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
