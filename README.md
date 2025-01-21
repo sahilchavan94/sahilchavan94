@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [sahil32.vercel.app](sahil32.vercel.app)
+- 👨‍💻 All of my projects are available at [sahil32.vercel.app](https://sahil32.vercel.app)
 
 - 💬 Ask me about **React.js, Rest APIs, NoSql, RDBMS, Flutter**
 
