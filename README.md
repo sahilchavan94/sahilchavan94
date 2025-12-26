@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-gpm&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-gpm" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently exploring **ML**
 
 - 👨‍💻 All of my projects are available at [sahil32.vercel.app](https://sahil32.vercel.app)
 
